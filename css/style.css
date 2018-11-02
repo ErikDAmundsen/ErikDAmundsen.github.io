@@ -392,3 +392,7 @@ end timeline start links
 end link start connect
 =======================================================*/
 
+.rowconnect {
+
+    float:left;
+}
