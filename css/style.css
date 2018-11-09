@@ -48,7 +48,7 @@ start about
     height:15%;
    
     float:right;
-   margin-right:2%;
+   padding-right:2%;
     border: 1px solid black;
     
 
@@ -396,3 +396,4 @@ end link start connect
 
     float:left;
 }
+
