@@ -116,6 +116,7 @@ start timeline workshistory
     font-family: 'Helvetica', sans-serif;
     overflow: hidden;
     position: relative;
+    margin-bottom: 80px;
     }
     .main-timeline:before{
     content: "";
@@ -358,6 +359,7 @@ end timeline start links
 
 
 .column2 {
+    
         padding-top:200px;
         width:50%;
          flex: 50%;
@@ -373,6 +375,7 @@ end timeline start links
 #btephotos {
     height:250px;
     width: auto;
+    padding-bottom: 20px;
     
    
 }
@@ -380,6 +383,8 @@ end timeline start links
     flex:50%;
     height:250px;
     width:auto;
+    padding-bottom: 20px;
+
     
 
 }
